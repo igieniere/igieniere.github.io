@@ -1,0 +1,9 @@
+h1, h2 { 
+    text-align: center;
+    color:black; background:red; 
+}
+
+p{
+    color:white;
+    font-size: 30px;
+}
